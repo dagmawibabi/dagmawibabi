@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" width=250px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+### Hi there, I'm Dagmawi Babi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 Number of people who have visited my prifile: ![](https://visitor-badge.glitch.me/badge?page_id=dagmawibabi&left_color=black&right_color=black)
@@ -6,7 +8,6 @@ Number of people who have visited my prifile: ![](https://visitor-badge.glitch.m
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
 <!--
 **dagmawibabi/dagmawibabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
