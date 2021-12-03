@@ -22,7 +22,7 @@
 <br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawibabi&show_icons=true&theme=radical&locale=en&layout=compact" alt="dagmawibabi" /></p>
-<p>&nbsp;<img align="left" width=500px src="https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical&locale=en" alt="dagmawibabi" /></p>
+<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical&locale=en" alt="dagmawibabi" /></p>
 
 <br><br>
 <br><br>
