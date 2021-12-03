@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+  [![HitCount](http://hits.dwyl.com/DagmawiBabi/dagmawibabi/dagmawibabi.svg?style=flat-square)](http://hits.dwyl.com/DagmawiBabi/dagmawibabi/dagmawibabi)
+
+
 <!--
 **dagmawibabi/dagmawibabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
