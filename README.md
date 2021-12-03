@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Number of people who have visited my prifile: ![visitors](https://visitor-badge.glitch.me/badge?page_id=dagmawibabi&left_color=green&right_color=black)
+Number of people who have visited my prifile: ![visitors](https://visitor-badge.glitch.me/badge?page_id=dagmawibabi&left_color=black&right_color=black)
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
