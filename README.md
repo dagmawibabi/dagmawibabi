@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-People who have visited [![HitCount](http://hits.dwyl.com/DagmawiBabi/dagmawibabi/dagmawibabi.svg?style=flat-square)](http://hits.dwyl.com/DagmawiBabi/dagmawibabi/dagmawibabi)
+Number of people who have visited my prifile: ![visitors](https://visitor-badge.glitch.me/badge?page_id=dagmawibabi&left_color=green&right_color=red)
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
